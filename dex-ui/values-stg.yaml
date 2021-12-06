@@ -15,6 +15,11 @@ app:
         paths:
           - path: "/"
             version: "pr-45"
+      - host: "pr-58-dex-ui.stg.aepps.com"
+        paths:
+          - path: "/"
+            version: "pr-58"
   versions:
     - "pr-43"
     - "pr-45"
+    - "pr-58"
