@@ -19,12 +19,8 @@ app:
         paths:
           - path: "/"
             version: "pr-57"
-      - host: "pr-57-dex-ui.stg.aepps.com"
-        paths:
-          - path: "/"
-            version: "pr-57"
   versions:
     - "pr-43"
     - "pr-45"
     - "pr-57"
-    - "pr-57"
+
