@@ -7,9 +7,3 @@ app:
       - host: "dex.stg.aepps.com" # has to be changed/disscused
         paths:
           - path: "/"
-      - host: "pr-63-dex-ui.stg.aepps.com"
-        paths:
-          - path: "/"
-            version: "pr-63"
-  versions:
-    - "pr-63"
